@@ -1,0 +1,23 @@
+
+
+body
+{
+	background-image: url("5.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+
+.header {
+    text-align: center;
+    color:white;
+    height:70px;
+    font-size: 30px;
+    font-family: Lucida Calligraphy;
+}
+.body
+{
+	color:black;
+	font-size: 30px;
+}
